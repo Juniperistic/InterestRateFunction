@@ -1,0 +1,27 @@
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.exe
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.deps.json
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.json
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.dev.json
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.dll
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfoInputs.cache
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfo.cs
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.dll
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Users\mmorris43\source\repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.genruntimeconfig.cache
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.exe
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.deps.json
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.json
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.dev.json
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.dll
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfoInputs.cache
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfo.cs
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.dll
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Users\miran\Desktop\CSCI 231 Codes 2.0 (intro to programming)\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.genruntimeconfig.cache
